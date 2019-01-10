@@ -1,0 +1,5 @@
+hay que cambiar lo del nombre de las tareas en todas las vistas que hay (fixuptasks, finder)
+meter el resto de actores en el sistema
+mejorar los mensajes
+terminar los requisitos del email y del teléfono
+meter el finder y las reports, así como las notas y los baneos.
